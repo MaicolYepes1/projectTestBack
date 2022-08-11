@@ -1,0 +1,12 @@
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\bin\Debug\net6.0\ServicesAdministration.MODELS.deps.json
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\bin\Debug\net6.0\ServicesAdministration.MODELS.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\bin\Debug\net6.0\ServicesAdministration.MODELS.pdb
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\obj\Debug\net6.0\ServicesAdministration.MODELS.csproj.AssemblyReference.cache
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\obj\Debug\net6.0\ServicesAdministration.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\obj\Debug\net6.0\ServicesAdministration.MODELS.AssemblyInfoInputs.cache
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\obj\Debug\net6.0\ServicesAdministration.MODELS.AssemblyInfo.cs
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\obj\Debug\net6.0\ServicesAdministration.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\obj\Debug\net6.0\ServicesAdministration.MODELS.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\obj\Debug\net6.0\refint\ServicesAdministration.MODELS.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\obj\Debug\net6.0\ServicesAdministration.MODELS.pdb
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.MODELS\obj\Debug\net6.0\ref\ServicesAdministration.MODELS.dll

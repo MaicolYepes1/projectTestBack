@@ -1,0 +1,15 @@
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\bin\Release\net6.0\ServicesAdministration.DATA.deps.json
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\bin\Release\net6.0\ServicesAdministration.DATA.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\bin\Release\net6.0\ServicesAdministration.DATA.pdb
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\bin\Release\net6.0\ServicesAdministration.MODELS.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\bin\Release\net6.0\ServicesAdministration.MODELS.pdb
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\obj\Release\net6.0\ServicesAdministration.DATA.csproj.AssemblyReference.cache
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\obj\Release\net6.0\ServicesAdministration.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\obj\Release\net6.0\ServicesAdministration.DATA.AssemblyInfoInputs.cache
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\obj\Release\net6.0\ServicesAdministration.DATA.AssemblyInfo.cs
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\obj\Release\net6.0\ServicesAdministration.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\obj\Release\net6.0\ServicesAdministration.DATA.csproj.CopyComplete
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\obj\Release\net6.0\ServicesAdministration.DATA.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\obj\Release\net6.0\refint\ServicesAdministration.DATA.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\obj\Release\net6.0\ServicesAdministration.DATA.pdb
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.DATA\obj\Release\net6.0\ref\ServicesAdministration.DATA.dll

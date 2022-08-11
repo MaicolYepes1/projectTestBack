@@ -1,0 +1,17 @@
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\bin\Release\net6.0\ServicesAdministration.CORE.deps.json
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\bin\Release\net6.0\ServicesAdministration.CORE.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\bin\Release\net6.0\ServicesAdministration.CORE.pdb
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\bin\Release\net6.0\ServicesAdministration.DATA.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\bin\Release\net6.0\ServicesAdministration.MODELS.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\bin\Release\net6.0\ServicesAdministration.DATA.pdb
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\bin\Release\net6.0\ServicesAdministration.MODELS.pdb
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\obj\Release\net6.0\ServicesAdministration.CORE.csproj.AssemblyReference.cache
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\obj\Release\net6.0\ServicesAdministration.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\obj\Release\net6.0\ServicesAdministration.CORE.AssemblyInfoInputs.cache
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\obj\Release\net6.0\ServicesAdministration.CORE.AssemblyInfo.cs
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\obj\Release\net6.0\ServicesAdministration.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\obj\Release\net6.0\ServicesAdministration.CORE.csproj.CopyComplete
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\obj\Release\net6.0\ServicesAdministration.CORE.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\obj\Release\net6.0\refint\ServicesAdministration.CORE.dll
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\obj\Release\net6.0\ServicesAdministration.CORE.pdb
+C:\Users\Maicol\source\repos\AplicationServices\ServicesAdministration.CORE\obj\Release\net6.0\ref\ServicesAdministration.CORE.dll
